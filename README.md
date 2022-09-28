@@ -53,8 +53,8 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot - SweetAlert
       <img width="12%" height = "12%" src="./Captures/WishlistGames.png"/>
       <img width="12%" height = "12%" src="./Captures/UserProfileGames.png"/>
       <img width="12%" height = "12%" src="./Captures/RegisterFormGames.png"/>
-      <img width="12%" height = "12%" src="./Captures/ChatbotGames.png"/>
       <img width="12%" height = "12%" src="./Captures/CloudinaryGames.png"/>
+      <img width="12%" height = "12%" src="./Captures/ChatbotGames.png"/>
     </div>
   </div>
 
