@@ -1,14 +1,14 @@
 <div align="center">
-  <img width="80%" height = "200px" src="./Perris.jpg" alt="cover"/>
+  <img width="80%" height = "200px" src="./Logo/banner.jpg" alt="cover"/>
 </div>
 
 <div align="center">
 
 ### Welcome to my GitHub Profile 👋
 
-### My name is Facundo!
+### My name is Facu!
 
-I love computers, coding, and music .
+I love computers, coding💻 , and music🎧.
 
 </div>
 
@@ -59,7 +59,7 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot
 <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Contact me ></h2>
 
 <div>
-   <a href="mailto:coronafacundo@gmail.com"><img width ="7%" height ="7%" src="./Logos/Gmail.png" alt="Gmail Logo"/></a>   
+   <a href="mailto:coronafacundo@gmail.com"><img width ="7%" height ="7%" src="./Logo/Gmail.png" alt="Gmail Logo"/></a>   
    <a href="https://www.linkedin.com/in/facucorona"><img width = "50px" height = "50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo"></a>
 
 </div>
