@@ -38,7 +38,7 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot
     <h3>GAME-COMMERCE</h3>
     App made with Henry's teammates as our final project.
       <div display="flex">
-      <img width="10%" height = "10%" src="./Captures/logoGames.jpeg"/>
+      <img width="10%" height = "10%" src="./Logo/logoGames.png"/>
       </div>
     🚀 Technologies used: 
     React - Redux - NodeJS - Express - PostgreSQL - Sequelize - Bootstrap - JWT - Nodemailer - Cloudinary - MercadoPago Checkout Pro - Chatbot
