@@ -18,10 +18,10 @@ I offer positive attitude, predisposition and creativity for problem solving. I 
 <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Tech Skills: </h2>
 JavaScript - HTML - CSS - React - Redux <br/>
 NodeJS - Express - PostgreSQL - Sequelize <br/>
-Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot 
+Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot - SweetAlert
 
 <div>
-  <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Projects:</h2>
+  <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Projects</h2>
 
 <div>
     <h3>SoyHenry Pokédex 🤳</h3>
@@ -30,8 +30,8 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot
     <div display="flex">
       <img width="30%" height = "30%" src="./Captures/Landing.png"/>
       <img width="30%" height = "30%" src="./Captures/Home.png"/>
-      <img width="30%" height = "30%" src="./Captures/Details.png"/>
       <img width="30%" height = "30%" src="./Captures/Search.png"/>
+      <img width="30%" height = "30%" src="./Captures/Details.png"/>
       <img width="30%" height = "30%" src="./Captures/Form.png"/>
       <img width="30%" height = "30%" src="./Captures/Filter.png"/>
     </div>
@@ -50,10 +50,11 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot
       <img width="12%" height = "12%" src="./Captures/LoginGames.png"/>
       <img width="12%" height = "12%" src="./Captures/HomeGames.png"/>
       <img width="12%" height = "12%" src="./Captures/DetailGames.png"/>
-      <img width="12%" height = "12%" src="./Captures/ChatbotGames.png"/>
       <img width="12%" height = "12%" src="./Captures/WishlistGames.png"/>
       <img width="12%" height = "12%" src="./Captures/UserProfileGames.png"/>
       <img width="12%" height = "12%" src="./Captures/RegisterFormGames.png"/>
+      <img width="12%" height = "12%" src="./Captures/ChatbotGames.png"/>
+      <img width="12%" height = "12%" src="./Captures/CloudinaryGames.png"/>
     </div>
   </div>
 
