@@ -44,7 +44,7 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot - SweetAlert
       <img width="10%" height = "10%" src="./Logo/logoGames.png"/>
       </div>
     🚀 Technologies used: 
-    React - Redux - NodeJS - Express - PostgreSQL - Sequelize - Bootstrap - JWT - Nodemailer - Cloudinary - MercadoPago Checkout Pro - Chatbot
+    React - Redux - NodeJS - Express - PostgreSQL - Sequelize - Bootstrap - JWT - Nodemailer - Cloudinary - MercadoPago Checkout Pro - Chatbot -SweetAlert
     <div>
       <img width="12%" height = "12%" src="./Captures/LandingGames.png"/>
       <img width="12%" height = "12%" src="./Captures/LoginGames.png"/>
@@ -60,7 +60,7 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot - SweetAlert
 
 </div>
 
-<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Contact: </h2>
+<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> 📫 How to reach me: </h2>
 
 <div>
    <a href="mailto:coronafacundo@gmail.com"><img width ="7%" height ="7%" src="./Logo/Gmail.png" alt="Gmail Logo"/></a>   
