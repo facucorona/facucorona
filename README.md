@@ -41,7 +41,7 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot
       <img width="10%" height = "10%" src="./Captures/logoGames.jpeg"/>
       </div>
     🚀 Technologies used: 
-    React - Redux - NodeJS - Express - PostgreSQL - Sequelize - Bootstrap - JWT - Nodemailer - Cloudinary - MercadoPago Checkout Pro
+    React - Redux - NodeJS - Express - PostgreSQL - Sequelize - Bootstrap - JWT - Nodemailer - Cloudinary - MercadoPago Checkout Pro - Chatbot
     <div>
       <img width="12%" height = "12%" src="./Captures/LandingGames.png"/>
       <img width="12%" height = "12%" src="./Captures/LoginGames.png"/>
