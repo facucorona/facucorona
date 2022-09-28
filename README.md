@@ -54,14 +54,13 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT
 
 </div>
 
-<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32> Contact me <img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32></h2>
+<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Contact me ></h2>
 
 
 
 
 <div>
-   <a href="mailto:coronafacundo@gmail.com"><img width ="7%" height ="7%" src="./Logos/Gmail.png" alt="Gmail Logo"/></a>
-   <a href="https://wa.link/x3n03h"><img src="./Logos/whatsapp-logo-4-1.png" alt="WA Logo" ></a>
+   <a href="mailto:coronafacundo@gmail.com"><img width ="7%" height ="7%" src="./Logos/Gmail.png" alt="Gmail Logo"/></a>   
    <a href="https://www.linkedin.com/in/facucorona"><img width = "50px" height = "50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo"></a>
  
 </div>
