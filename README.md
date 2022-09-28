@@ -10,6 +10,9 @@
 
 I love computers, coding💻 , and music🎧.
 
+I'm a FullStack Web Developer with formation in Pentest and Ethical Hacking. I've worked with NodeJS, React, Redux, SQL, Sequelize, Express, and several other technologies in the sector.
+I offer positive attitude, predisposition and creativity for problem solving. I hope to further deepen my knowledge and acquire new skills.
+
 </div>
 
 <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Tech Skills: </h2>
@@ -18,10 +21,10 @@ NodeJS - Express - PostgreSQL - Sequelize <br/>
 Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot 
 
 <div>
-  <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Projects</h2>
+  <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Projects:</h2>
 
 <div>
-    <h3>SoyHenry Pokédex</h3>
+    <h3>SoyHenry Pokédex 🤳</h3>
     🚀 Technologies used: 
     React - Redux - NodeJS - Express - PostgreSQL - Sequelize
     <div display="flex">
@@ -35,7 +38,7 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot
   </div>
 
 <div>
-    <h3>GAME-COMMERCE</h3>
+    <h3>GAME-COMMERCE 🕹️</h3>
     App made with Henry's teammates as our final project.
       <div display="flex">
       <img width="10%" height = "10%" src="./Logo/logoGames.png"/>
@@ -56,7 +59,7 @@ Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot
 
 </div>
 
-<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Contact me ></h2>
+<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Contact: </h2>
 
 <div>
    <a href="mailto:coronafacundo@gmail.com"><img width ="7%" height ="7%" src="./Logo/Gmail.png" alt="Gmail Logo"/></a>   
