@@ -6,7 +6,7 @@
 
 ### Welcome to my GitHub Profile 👋
 
-### My name is Facu!
+### I'm Facu!
 
 I love computers, coding💻 , and music🎧.
 
@@ -18,7 +18,7 @@ I offer positive attitude, predisposition and creativity for problem solving. I 
 <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Tech Skills: </h2>
 JavaScript - HTML - CSS - React - Redux <br/>
 NodeJS - Express - PostgreSQL - Sequelize <br/>
-Git - Babel - Webpack - Cloudinary - Bootstrap - JWT - Chatbot - SweetAlert
+Git - Babel - Webpack - Cloudinary - Less - Bootstrap - JWT - Chatbot - SweetAlert
 
 <div>
   <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 22> Projects</h2>
