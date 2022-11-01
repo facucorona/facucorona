@@ -25,7 +25,7 @@ Git - Babel - Webpack - Cloudinary - Less - Bootstrap - JWT - Chatbot - SweetAle
 
 <div>
   <h3>SoyHenry Pokédex 🤳</h3>
-   <a href="https://pokemon-pi-facucorona.vercel.app/" target="_blank" rel="noopener noreferrer">Visti! <a/><br/>
+   <a href="https://pokemon-pi-facucorona.vercel.app/" target="_blank" rel="noopener noreferrer">Visit! <a/><br/>
       
     🚀 Technologies used: 
     React - Redux - NodeJS - Express - PostgreSQL - Sequelize
